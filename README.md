@@ -18,7 +18,7 @@ To use this Tableau visualization, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/OwanDaisy/tableau-sales-visualization.git
+   git clone https://github.com/OwanDaisy/Tableau_Projects.git
    ```
 
 2. Open Tableau Desktop and navigate to File > Open. Browse to the cloned repository and select the Tableau workbook file (with the `.twbx` extension) to open the visualization.
